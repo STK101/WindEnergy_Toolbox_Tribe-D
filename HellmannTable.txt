@@ -1,0 +1,11 @@
+Hellmann Table-
+location 	                                    α
+Unstable air above open water surface: 	    	0.06
+Neutral air above open water surface: 	    	0.10
+Unstable air above flat open coast: 	      	0.11
+Neutral air above flat open coast: 	        	0.16
+Stable air above open water surface: 	     	0.27
+Unstable air above human inhabited areas: 		0.27
+Neutral air above human inhabited areas: 	  	0.34
+Stable air above flat open coast: 	        	0.40
+Stable air above human inhabited areas: 	  	0.60 
