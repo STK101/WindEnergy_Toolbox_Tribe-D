@@ -1,0 +1,7 @@
+Windspeeds for our model are to be calculated at a height for 10 meter above ground level. 
+For the sake of reproducibility we're including the average hourly speeds on the coasts of Chennai.
+
+chennai = [4.18873903, 4.10496425, 4.18873903, 4.3562886,  4.3562886,  4.27251381,
+    4.18873903, 4.18873903, 4.27251381, 4.3562886,  4.44006338, 4.60761294,
+    4.85893728, 5.11026162, 5.1940364,  5.11026162, 4.94271206, 4.7751625,
+    4.69138772, 4.60761294, 4.52383816, 4.44006338, 4.3562886,  4.27251381]
