@@ -1,5 +1,5 @@
 # WindEnergy_Toolbox_Tribe-D
-Python Script to get all required Information regrading the Wind-Energy produced.
+Python Script to get all relevant required Information regrading the Wind-Energy produced.
 
 ## Requirements
 - Python (Version 3+) - If you're not familiar with python check out this out [Python Official Install](https://www.python.org/downloads/) 
