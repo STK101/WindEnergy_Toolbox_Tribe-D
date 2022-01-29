@@ -6,5 +6,5 @@ Python Script to get all required Information regrading the Wind-Energy produced
 - Numpy - If you're not familiar check out [Numpy Official Install](https://numpy.org/install/)
 
 ## Getting Started
-Run the "windbox.py" file (if you've never run a python file check this out) [Python Run guide](https://www.tutorialspoint.com/how-to-run-python-program)
+Run the "windbox.py" file (if you've never run a python file check this out [Python Run guide](https://www.tutorialspoint.com/how-to-run-python-program))
 and everything else of need would be told to you in the scipt itself.
