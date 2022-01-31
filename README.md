@@ -37,4 +37,4 @@ Fig 1: Map Showing Wind Power Potential
 
   
 
-![LaTex equations](Screenshot 2022-01-31 at 5.04.20 PM.png)
+![LaTex equations](best.png)
