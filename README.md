@@ -9,7 +9,7 @@ Python Script to get all relevant required Information regarding the Wind-Energy
 Run the "windbox.py" file (if you've never run a python file check this out [Python Run guide](https://www.tutorialspoint.com/how-to-run-python-program))
 and everything else of need would be told to you in the scipt itself.
 
-##  8.1 Case Study of Chennai's Wind Energy
+## Case Study of Chennai's Wind Energy
 
   
 
