@@ -19,13 +19,13 @@ A case study of potential wind energy production at Chennai was performed.
 
   
 
-Average windspeed in Chennai= $4.51$ m/s
+Average windspeed in Chennai= 4.51 m/s
 
 [@1011770144598719875276fig11]
 
   
 
-Monthly Units at Average Wind Speed ~ $260$ units/month (best case assuming 100% effciency)
+Monthly Units at Average Wind Speed ~ 260 units/month (best case assuming 100% effciency)
 
   
 
@@ -40,7 +40,7 @@ Fig 1: Map Showing Wind Power Potential
 ##  8.2 Formulas Required
 
   
-
+* ![formula](https://render.githubusercontent.com/render/math?math=\omega  \leq  \frac{V \ × \ TSR }{ π \ \times \ D })
 * $\omega  \leq  \frac{V \ × \ TSR }{ π \ \times \ D }$
 
 * $P_{wind} = (1/2) \times ρ × (πr^2)\times v^3  \times C_p$
