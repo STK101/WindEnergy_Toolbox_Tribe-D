@@ -4,7 +4,7 @@ def print_ascii(fn):
     print(''.join([line for line in f]))
 
 print_ascii('windtext.txt')
-print(" For all the tasks from 1 to 5 except 4, windspeed is expected from an anemometer present near the wind-turbine or for approximation purposes at height 10 meter from the ground (if you're using wind-speed reports please note the height they've been reported at and use tool 4 i.e. windspeed convertor)")
+print(" For all the tasks from 1 to 6 except 5, windspeed is expected from an anemometer present near the wind-turbine or for approximation purposes at height 10 meter from the ground (if you're using wind-speed reports please note the height they've been reported at and use tool 4 i.e. windspeed convertor)")
 print(" 1. WindEnergy Potential")
 print(" 2. Rotational Speed of Windmill/turbine or Frequency of AC")
 print(" 3. Voltage Output of Windmill/Turbine")
